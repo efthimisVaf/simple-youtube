@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GTWe1fqO-OQShrFNaCN5l54UPLc",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "NL",
+  "pageInfo": {
+    "totalResults": 98438,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ng_yivYKQ3StFlt8-SQP2fH8ERU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wy9q22isx3U"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-10T12:59:59Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Vue JS Crash Course",
+        "description": "In this crash course you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc Sponsor: http://www.netlify.com Code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wy9q22isx3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wy9q22isx3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wy9q22isx3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-10T12:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rfcKMPtPlE1vNFwKBrXOqyXV1bs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4deVCNJq3qc"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-19T15:15:00Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Learn Vue.js - Full Course for Beginners - 2019",
+        "description": "Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4deVCNJq3qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4deVCNJq3qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4deVCNJq3qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-19T15:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJpVBVjG0_rneViRFewC0Y0zWPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OrxmtDw4pVI"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-24T18:20:37Z",
+        "channelId": "UCsUalyRg43M8D60mtHe6YcA",
+        "title": "Vue.js: The Documentary",
+        "description": "by honeypot.io | What began as a side project of a Google developer now shares the JS leaderboard with #React and #Angular... With the help of Sarah Drasner ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OrxmtDw4pVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OrxmtDw4pVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrxmtDw4pVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Honeypot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-24T18:20:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_NP-4blb3MxajAnEahNTYcmRlY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nhBVL41-_Cw"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-03T16:50:03Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Vue.js Explained in 100 Seconds",
+        "description": "Install the quiz app 🤓 iOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8 Android https://play.google.com/store/apps/details?id=io.fireship.quizapp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nhBVL41-_Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nhBVL41-_Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nhBVL41-_Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-03T16:50:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "imVQoZ-z4_Ee6maqPiLeazVYu1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YrxBCBibVo0"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-02T08:30:01Z",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "title": "Vue JS 3 Tutorial for Beginners #1 - Introduction",
+        "description": "Hey gang, in this Vue 3 tutorial series for beginners we'll learn Vue.js (using version 3 - the latest major version) from the ground up & use it to make a couple of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YrxBCBibVo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YrxBCBibVo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrxBCBibVo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Net Ninja",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-02T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6LM-66pnEPiP9ZUxiTgTP2ATCWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FtXd_qQJgfI"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-04T22:30:43Z",
+        "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+        "title": "What Is VueJS?",
+        "description": "In this What Is Wednesday, I answer the question. What Is VueJS? ### Video Links Starting Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtXd_qQJgfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtXd_qQJgfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtXd_qQJgfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LevelUpTuts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-04T22:30:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DwK060QdcTEkENKpU8faGONyoWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JLc-hWsPTUY"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-12T20:02:09Z",
+        "channelId": "UCBBGM84ZOs7z5jpTQAaZ_Hg",
+        "title": "Build a Weather App in VueJS | VueJS Beginner Tutorial",
+        "description": "Learn how to make a Weather app in Vue JS, we use the Open Weather Map API to make calls to a restful api to return the current weather data. This uses the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLc-hWsPTUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLc-hWsPTUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLc-hWsPTUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tyler Potts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-12T20:02:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ukoHsUZhErEXdfFpXuYsCTHf2_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZqgiuPt5QZo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-18T04:44:06Z",
+        "channelId": "UC_FBMBKup_b3xk_NfeKlalQ",
+        "title": "Learn Vue 3 for Beginners - Full 2020 Tutorial Course",
+        "description": "Welcome to our Learn Vue 3 Tutorial Course for Beginners! Vue is a progressive framework for building user interfaces. Ready to start your path to becoming a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqgiuPt5QZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqgiuPt5QZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqgiuPt5QZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Earth Is Square",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-18T04:44:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3K83fAbRbmLUyRjZJhBzJVxyAYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G-oxmvgVpZ4"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-08T15:30:00Z",
+        "channelId": "UCZNZj3mkdCGJfCoKyl4bSYQ",
+        "title": "1 Videoda VUE - Gökhan Kandemir - KablosuzKedi",
+        "description": "Sosyal medyadan takip edin : ➤ Twitter https://twitter.com/mustafam_coskun ➤ Instagram :https://www.instagram.com/mustafa_murat/ ➤ Facebook Grubu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-oxmvgVpZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-oxmvgVpZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-oxmvgVpZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yazılım Bilimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-08T15:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1RCHb2ky53zUAPgKLcDsBry197o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SC74AXdOCh4"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-10T15:00:35Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Vue.js in 2019 &amp; Beyond",
+        "description": "Should you still learn Vue.js? What will change in 2019 and 2020? I'm the creator of one of the world's largest VueJS courses, here are my thoughts! Join the full ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SC74AXdOCh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SC74AXdOCh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SC74AXdOCh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-10T15:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DkQ8JhkROo8aQAGeEZonWVvhbVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e-E0UB-YDRk"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-09T05:00:10Z",
+        "channelId": "UC_hG9fglfmShkwex1KVydHA",
+        "title": "Vue 3 Tutorial - Full Course 10 Hours 10 apps",
+        "description": "Vue js tutorial full course for beginners to advanced. Building 10 projects in 10 hours Using Vue 3 composition API - setup, teleport, reactivity, and ref Vue 3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e-E0UB-YDRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e-E0UB-YDRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-E0UB-YDRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bitfumes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-09T05:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "87UB_YV-aCAgnLVo-CD6SMyNPao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OlnwgS-gk8Y"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-08T12:04:43Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Vue JS - Быстрый курс за 50 минут (Все Включено!)",
+        "description": "В ролике вы узнаете про все основные моменты, которые есть во Vue JS всего лишь за 50 минут, написав SPA приложение Мой Курс Стань JavaScript ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OlnwgS-gk8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OlnwgS-gk8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OlnwgS-gk8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-08T12:04:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U1OQowAn0W-z0SfpiUuOD-zHjYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ccVrP6hSW8o"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-14T12:00:04Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Top 10 Tips For New Vue.js Developers",
+        "description": "Course You Should Check out! Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm Other courses I like on Udemy - The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccVrP6hSW8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ccVrP6hSW8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccVrP6hSW8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-14T12:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vN-FWNk-Dl1AvSd3IJ_49HaSKQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m1_ih43p24s"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-01T17:07:59Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Build a Calculator with Vue.js",
+        "description": "In this tutorial, you will learn to use Vue.js to create a basic calculator component inside a web browser. Code: https://github.com/codyseibert/vue-calculator ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1_ih43p24s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1_ih43p24s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1_ih43p24s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-01T17:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c1Un0w4X3KRA5eXKdutEwFWsyX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uTFdegiQePo"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-27T07:55:40Z",
+        "channelId": "UCyNpa6WDH4i2lEznoju1lMg",
+        "title": "How to create dynamic layouts  in Vuejs application (EP-5)",
+        "description": "Hello codeguru's welcome back. In this video we will discuss about how to create dynamic layouts inside our single page application using vue component.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uTFdegiQePo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uTFdegiQePo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uTFdegiQePo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "codeguru",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-27T07:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQUVlaxlROiudbTHdpj_ds57slU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D3oivlcoEvw"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-20T14:02:35Z",
+        "channelId": "UCtIGSt6iI8UzmM66dNWICjw",
+        "title": "[TUTO] Vue JS : les bases en 35 minutes !",
+        "description": "IMPORTANT : Prenez le temps de mettre en pause le tutoriel, de refaire les manipulations sur votre ordinateur, de manipuler Vue JS, de revenir en arrière sur le ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D3oivlcoEvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D3oivlcoEvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D3oivlcoEvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "La Tech avec Bertrand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-20T14:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5vSCHuobQfgngkbk4IhndEprFdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3OhLUYNw0TI"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-14T14:00:00Z",
+        "channelId": "UC-8QAzbLcRglXeN_MY9blyw",
+        "title": "Trying Vue.js for the First Time",
+        "description": "I code React all day every day, but today I decided to change it up and give Vue.js a try for the first time. #benawad #vue ---- Checkout my side projects: If you're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3OhLUYNw0TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3OhLUYNw0TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OhLUYNw0TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Awad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-14T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eXtAommOdLvztVrRy3QLtTkk8uI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vp5ANvd88x0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-18T17:05:32Z",
+        "channelId": "UCxV7lO6dUhpB-IyzmGuVgqg",
+        "title": "Vue 3 Live Release Evan You Creator Vuejs",
+        "description": "Vue 3 was announced & released here live on youtube. Evan You Creator of Vuejs showcased 4 years of work in the making. Evan You went Live on Friday ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vp5ANvd88x0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vp5ANvd88x0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vp5ANvd88x0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vuejs Amsterdam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-18T17:05:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mvCKbHZDfjcrdvniQwUw7BTNVUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "apR_jIM0rb4"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-25T13:00:00Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "WHY I CHOSE VUE OVER REACT AND WHY I&#39;M NOT GOING BACK",
+        "description": "Vue.js is a great framework but so is React. So why did I choose to go to VUe rather then React? In this video I discuss why I think Vue.js is the better option over ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apR_jIM0rb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apR_jIM0rb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apR_jIM0rb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-25T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E01oo-Jt0f3ln3JbvC0nlt-u11Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j97QtHf0CHY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-30T10:29:33Z",
+        "channelId": "UC5CIt5W4kq4ie0KJEdg2ztg",
+        "title": "Học Vue js trong một video duy nhất - learn vue js in one video",
+        "description": "Học Vue js trong một video duy nhất - learn vue js in one video ▻Đăng ký kênh Lập Trình Viên TV để nhận thêm các video mới. ▻Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j97QtHf0CHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j97QtHf0CHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j97QtHf0CHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lập trình viên TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-30T10:29:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "neJxG73ez0Lbj8jgCpmihpGl-7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BPyniDJ5QOQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-07T10:00:16Z",
+        "channelId": "UCBBGM84ZOs7z5jpTQAaZ_Hg",
+        "title": "Build a Music app using VueJS | Tutorial for Beginners",
+        "description": "Learn how to code a VueJS Music app that uses the HTML5 Audio Element API to play music. We use VueJS reactive features including lifecycle methods, data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BPyniDJ5QOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BPyniDJ5QOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BPyniDJ5QOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tyler Potts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-07T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b65F9YphLoyGcvH_zJ7p8qWHSew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Q9F3D3G3w0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T12:00:02Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Why You Should Learn Vue.js 3! | Why You Should Learn Vue Today!",
+        "description": "Why should you use Vue.js 3? Why does it matter? In this video I explain why you should learn Vue.js and some of the cool advantages to Vue 3 in 2020. #vuejs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Q9F3D3G3w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Q9F3D3G3w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Q9F3D3G3w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T12:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G9o-txqtORnPLKt_jcmsCqt3l-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e9OTiKoEH_g"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-30T09:00:16Z",
+        "channelId": "UCaycmZ0kLzlh3fVJZlUvwxw",
+        "title": "Vue.js - kurs w 60 minut",
+        "description": "Kodowanie od minuty 8:42 :) Wcześniej geneza, wady i zalety Vue.js. Więcej na https://tworcastron.pl.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9OTiKoEH_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9OTiKoEH_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9OTiKoEH_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Twórca Stron",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-30T09:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YuFfTXv_x7b5xzGA_ILzUMGKMRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHAMYwlPCug"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-31T12:00:11Z",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "title": "Vue.js Tips: Use Slots The Right Way // VUE.JS SLOTS TUTORIAL WITH VUE 3",
+        "description": "Vue.js has a feature called slots. In this video I discuss how slots work and some tips you should know! #vuejs #vuejs3 #learnvue #vueslots Check out my last ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHAMYwlPCug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHAMYwlPCug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHAMYwlPCug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Program With Erik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-31T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OEwTzI6czRpHjc4FZkoAfPfzZC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hiOUHcx4Ja8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-19T04:30:02Z",
+        "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "title": "Vue JS crash Course | what is Vue JS",
+        "description": "Welcome to the very first video of Vue JS crash course. In this video we will learn what is vue js, get some introduction to vue and will see what we will create in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hiOUHcx4Ja8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hiOUHcx4Ja8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hiOUHcx4Ja8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hitesh Choudhary",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-19T04:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RCZOXoMxR6diso73mP3IvAxGeHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bI5jpueiCWw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-30T01:44:22Z",
+        "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+        "title": "Why and How I Used Vue.js for My Python/Django Web App (and why not React)",
+        "description": "Here's why and how I used Vue.js for my Python/Django web app. You can try using this website here: https://csqa.io/ And here's the article I used for setting up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bI5jpueiCWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bI5jpueiCWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bI5jpueiCWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CS Dojo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-30T01:44:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y9VCpnmCEZ_LY8nRDXESxLHEAQg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bEwdtxQt-40"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-25T14:39:20Z",
+        "channelId": "UCYT5QTr38bwp85Pka8YSVIg",
+        "title": "VueJS Eğitim | Part 2 |  VueJS Nedir? Neden Kullanmalıyız?",
+        "description": "VueJS Eğitim | Part 2 | VueJS Nedir? Neden Kullanmalıyız? Eğitime Katılmak için ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEwdtxQt-40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEwdtxQt-40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEwdtxQt-40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kablosuzkedi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-25T14:39:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOXaCK7e4DBUuVU4fIQgWOnOFRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E7PWRMe2mNU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-20T18:00:11Z",
+        "channelId": "UCKMjvg6fB6WS5WrPtbV4F5g",
+        "title": "Building a website FROM SCRATCH using Vue.js, HTML/CSS, and Netlify",
+        "description": "My current personal website lacked ~personality~... So I decided it was time for a new one. Watch me build the front-end of my new personal website FROM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7PWRMe2mNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7PWRMe2mNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7PWRMe2mNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kylie Ying",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-20T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWnFpyzvgVVh8qvsJTAOAdwxWGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TZj60NV70QA"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-25T00:33:59Z",
+        "channelId": "UCOw-DRfCmhOBUPMe4ltZOSA",
+        "title": "Unit Testing VueJS components with JEST",
+        "description": "In this video we are going to test one of the components (Task) of the VueJS application that we've been working on for the past two weeks using Vue Test Utils ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZj60NV70QA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZj60NV70QA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZj60NV70QA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pragmatic Reviews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-25T00:33:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RmRjQ9mxf0WCV-giEgWw9XsGZkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xES1uBl2_Ek"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-28T13:00:10Z",
+        "channelId": "UCJGU0X1UIudqLUL7v-rMPtQ",
+        "title": "VueJS ile Web Sayfası Yapımı",
+        "description": "Vue ile birlikte youtube benzeri bir web sayfası kodluyoruz. Bu derste Vue, Vuetify projeye dahil edilmesi ve kullanımı, nodejs üzerinde bir port ile geliştirme ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xES1uBl2_Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xES1uBl2_Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xES1uBl2_Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Video Kod",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-28T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hb3aF5JONi_IrNZCohV_cGfnLpk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hF8x9kfYK_c"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-09T04:15:46Z",
+        "channelId": "UCFpZDxOMGzsx05epqfvmzbQ",
+        "title": "VueJS Full Lesson [TAGALOG]",
+        "description": "Sa lesson nato pag-aaralan natin ang VueJS isang JavaScript Framework at kung pano pa eto gamitin sa ating web development projects. Note : I hihiwalay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hF8x9kfYK_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hF8x9kfYK_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hF8x9kfYK_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PinoyFreeCoder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-09T04:15:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iADnl3pjTrn0Nehk25S-vgfFePU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5sNXjRE1C-U"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-08T14:53:27Z",
+        "channelId": "UCtIGSt6iI8UzmM66dNWICjw",
+        "title": "[ Tuto ] Vue JS 3 : les bases ! ( tutorial pour débutant en français )",
+        "description": "Vue JS 3 vient de sortir ! Je vous propose une mise à jour de mon tuto d'initiation à VueJS, en français, et pour débutant ! Dans ce cours vidéo, vous pourrez ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5sNXjRE1C-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5sNXjRE1C-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sNXjRE1C-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "La Tech avec Bertrand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-08T14:53:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C7pH1z_ckDK88iAXz7v4GWK7ZAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vUcUdpBcmF8"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-17T10:00:12Z",
+        "channelId": "UCBBGM84ZOs7z5jpTQAaZ_Hg",
+        "title": "VueJS Dropdown Component | A VueJS Basics Tutorial",
+        "description": "Learn how to make an easy VueJS Dropdown component that uses Vue Transitions to animate itself in. This component uses the very basic features of VueJS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vUcUdpBcmF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vUcUdpBcmF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vUcUdpBcmF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tyler Potts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-17T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6U_Edn8fUnuFk2g0yuBwoNXZ7R0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FmUXa1w3T84"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-07T00:47:33Z",
+        "channelId": "UCM5i_4wxchpnBVL2l9IB94Q",
+        "title": "Build a Responsive Navigation Menu with Vuejs",
+        "description": "In this tutorial, I will show you how to create a very powerful navigation menu in less than 120 lines of code with Vue. Please like, share and subscribe. It helps ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmUXa1w3T84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmUXa1w3T84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmUXa1w3T84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miguel Coder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-07T00:47:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vEF4t0xUUwlyy95-e33Z8X-xZIQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aDE-5MkZ-yk"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-21T12:04:35Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (4/16) : Propriétés combinées &amp; Watchers",
+        "description": "En plus des propriétés définie gràce à `data` il est possible de définir des propriétées `computed` qui sont issues d'une mutation. Ce système permet de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-21T12:04:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CZcTU5aps2XyUnKDZtqyXuRZnfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g7YKecZhFRA"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-19T12:06:03Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (1/16) : Introduction",
+        "description": "Article ▻ https://grafikart.fr/tutoriels/introduction-1080 Abonnez-vous ▻ https://bit.ly/GrafikartSubscribe Soutenez Grafikart: Devenez premium ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g7YKecZhFRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g7YKecZhFRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g7YKecZhFRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-19T12:06:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FgNwPn3D2l3J5Tfc1sjPOi4Eg20",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6-JEiEfkluc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-07T23:14:14Z",
+        "channelId": "UCBouHYT_L2-KhBZDRfGarXw",
+        "title": "Create a carousel using Vuejs",
+        "description": "Create a carousel/slide using Vuejs Please Like/share and subscribe for more content ^_^ if you have any questions please feel free to ask. The source code on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-JEiEfkluc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-JEiEfkluc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-JEiEfkluc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nabil Merazga",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-07T23:14:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mO8SYMzUOXZgSGalu2GORJPyBok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SgtS7jWF2O4"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-28T11:58:57Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (11/16) : TP : TodoList",
+        "description": "Maintenant que l'on a vu les bases de VueJS il est temps de passer à la pratique. Et quoi de mieux pour découvrir un framework front-end que de faire une ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-28T11:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "666BboZl9II-qJ1OCGMf8fN6uKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QSZZ5YjxKZs"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-24T12:10:35Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (7/16) : Les Composants",
+        "description": "Dans ce chapitre nous allons découvrir un aspect important de la structure VueJS : Les composants. Les composants sont des sortes de balises personnalisées ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-24T12:10:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PiPyGRVbzFv70zJpi1PBloV9lTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ez5_CITkg24"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-30T19:20:01Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Разбор задачи на собеседование по VueJS (создание SPA)",
+        "description": "Поддержать выпуск новых видео: ЯД: 410013757655670 BTC: 1FfskGr1qP3NdmYGXRtu4UFLhxo2e1rhS4 В ролике я помогаю разобрать задачу ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ez5_CITkg24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ez5_CITkg24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ez5_CITkg24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-30T19:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PSgrEOydCWFYxlGH2IRalY1QinY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VuGRSpy92cI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-16T10:00:05Z",
+        "channelId": "UCBBGM84ZOs7z5jpTQAaZ_Hg",
+        "title": "How to Make a Popup Modal with Vue Transitions | A VueJS Basics Tutorial",
+        "description": "Today we learn how to make a VueJS Popup Modal using Vue Transitions to apply animation to our vue components. We dive into the Vue Transition classes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VuGRSpy92cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VuGRSpy92cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuGRSpy92cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tyler Potts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-16T10:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1PcbaF1HI3WGvJXJqUth4mWJ91Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eaMzCFZMYhs"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-27T12:02:34Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (10/16) : Animations &amp; Transitions",
+        "description": "VueJS intègre un système d'animation qui vous permettra de mettre en place des transitions lorsqu'un élément est ajouté ou supprimé du DOM. Ces transitions ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-27T12:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NssTwvkKV87c_Ixk2UxOxgDAGcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ml-Hf9gLO9I"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-26T11:51:18Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (9/16) : Vue-CLI",
+        "description": "Article ▻ https://grafikart.fr/tutoriels/vue-cli-816 Abonnez-vous ▻ https://bit.ly/GrafikartSubscribe VueJS offre la possibilité de travailler avec un format de fichier ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-26T11:51:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BLG182DCPmsvUYyw-kykjqu0feE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CTeFoa55ftQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-26T17:00:01Z",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "title": "VueJS Tutorial: Zero to Sixty",
+        "description": "VueJS is a fantastic front-end framework to learn, in this video, we get know what VueJS, how is it different to React and Angular, and how to use it to create state ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CTeFoa55ftQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CTeFoa55ftQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTeFoa55ftQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-26T17:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tkBcUDtN2c3zaCBp6Xob2oeD5aI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dh0E9aaedEA"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-27T16:00:02Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "FILTERS | VueJS | Learning the Basics",
+        "description": "VueJS is an amazing Frontend Framework! Want to transform Output? Filters allow you to do just that! It's a JavaScript Frontend Framework - for more Resources ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dh0E9aaedEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dh0E9aaedEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dh0E9aaedEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-27T16:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rAFCg9zLCNfxWsUjscFPTux7IyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rxLZg4PqC8M"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-12T15:34:40Z",
+        "channelId": "UCEx0eIaEgk-Pmeqge6M2vtw",
+        "title": "VueJS com o Django Framework: Como usar os dois juntos",
+        "description": "VueJS com Django: Aprenda a usar o poderoso VueJS junto com o Django Framework, e criar componentes single file, com a extensão .vue. Código fonte: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxLZg4PqC8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxLZg4PqC8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxLZg4PqC8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luís Fred",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-12T15:34:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FQJULcjzCgZNhEF2ZQEwAjF-3GY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j55fHUJqtyw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T17:16:30Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Full Stack Vue.js, Express &amp; MongoDB [1] - Express API",
+        "description": "In this 3 part series we will build a small app using Vue.js on the client, Express on the backend and MongoDB for our database and we will deploy to Heroku.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j55fHUJqtyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j55fHUJqtyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j55fHUJqtyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-08T17:16:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xu4qGZRTA2GOj9P2d2t1nYOA8mU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AqesL138vMA"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-23T00:29:35Z",
+        "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+        "title": "¿Qué es Vue.js y por qué es tan especial?",
+        "description": "Vue.js es un framework progresivo de JavaScript que te da la flexibilidad necesaria para trabajar con todo tipo de proyectos (grandes o pequeños), además se ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqesL138vMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqesL138vMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqesL138vMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EDteam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-23T00:29:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RciVuSPTWilbcB31zIArB1ck5lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TEPBWdfk1eo"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-06T00:45:56Z",
+        "channelId": "UC81OIFgbiCv9lE2ws07lsjA",
+        "title": "How to deploy your Vuejs app to AWS S3 - FREE",
+        "description": "Get starting point with AWS by deploying your Vuejs App to AWS S3. This is a step by step video on how to deploy your Vuejs application to AWS S3 for free.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEPBWdfk1eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEPBWdfk1eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEPBWdfk1eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Esterling Accime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-06T00:45:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0M4aW4ybFaZ6Yjq8Wn-uVEbR_fU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W6iExv_cg2E"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-20T12:02:07Z",
+        "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+        "title": "VueJS 2 (3/16) : L&#39;instance",
+        "description": "Maintenant nous allons découvrir l'instance de VueJS plus en profondeur en découvrant son cycle de vie. Soutenez Grafikart: Devenez premium ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6iExv_cg2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6iExv_cg2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6iExv_cg2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grafikart.fr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-20T12:02:07Z"
+      }
+    }
+  ]
+}
